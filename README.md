@@ -97,6 +97,7 @@ cd covid19-eda
 pip install -r requirements.txt
 
 # Run notebook or script
+
 👨‍💻 Author
 
 Aveen Joseph
